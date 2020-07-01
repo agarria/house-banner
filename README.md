@@ -1,2 +1,2 @@
-# house-template
-House Template - Basic template.
+# house-banner
+House Banner - Basic template.
